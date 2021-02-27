@@ -71,9 +71,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/www.jugglerz.de\/shows\/Jugglerz-Mixes-Vol-20-PAN-DE-MIC.mp3"
+                 "value":"http:\/\/jam.achern23.org:8023\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
