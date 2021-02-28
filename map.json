@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/scribblers-official.herokuapp.com\/ssrEnterLobby?lobby_id=9bb3046f-07c6-441a-98a9-569b8a431fbe"
+                 "value":"https:\/\/scribble.achern23.org"
                 }],
          "type":"tilelayer",
          "visible":true,
