@@ -73,7 +73,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/jam.achern23.org:8023\/stream"
+                 "value":"http:\/\/jam.achern23.org:8443\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
