@@ -1264,7 +1264,7 @@
         {
          "columns":8,
          "firstgid":2629,
-         "image":"..\/rcworld\/a23digital\/src\/animated_fuerloescher.png",
+         "image":"src\/animated_fuerloescher.png",
          "imageheight":96,
          "imagewidth":256,
          "margin":0,
@@ -1276,35 +1276,35 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":200,
                          "tileid":0
                         }, 
                         {
-                         "duration":500,
+                         "duration":200,
                          "tileid":1
                         }, 
                         {
-                         "duration":500,
+                         "duration":200,
                          "tileid":2
                         }, 
                         {
-                         "duration":500,
+                         "duration":200,
                          "tileid":3
                         }, 
                         {
-                         "duration":500,
+                         "duration":200,
                          "tileid":4
                         }, 
                         {
-                         "duration":500,
+                         "duration":200,
                          "tileid":5
                         }, 
                         {
-                         "duration":500,
+                         "duration":200,
                          "tileid":6
                         }, 
                         {
-                         "duration":500,
+                         "duration":200,
                          "tileid":7
                         }],
                  "id":0
@@ -1349,37 +1349,37 @@
                  "animation":[
                         {
                          "duration":200,
-                         "tileid":8
+                         "tileid":16
                         }, 
                         {
                          "duration":200,
-                         "tileid":9
+                         "tileid":17
                         }, 
                         {
                          "duration":200,
-                         "tileid":10
+                         "tileid":18
                         }, 
                         {
                          "duration":200,
-                         "tileid":11
+                         "tileid":19
                         }, 
                         {
                          "duration":200,
-                         "tileid":12
+                         "tileid":20
                         }, 
                         {
                          "duration":200,
-                         "tileid":13
+                         "tileid":21
                         }, 
                         {
                          "duration":200,
-                         "tileid":14
+                         "tileid":22
                         }, 
                         {
                          "duration":200,
-                         "tileid":15
+                         "tileid":23
                         }],
-                 "id":15
+                 "id":16
                 }],
          "tilewidth":32
         }],
