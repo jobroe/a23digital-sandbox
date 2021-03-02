@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/achern23.org\/scribble.html"
+                 "value":"https:\/\/achern23.org\/scribble\/scribble.html"
                 }],
          "type":"tilelayer",
          "visible":true,
